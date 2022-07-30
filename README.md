@@ -1,4 +1,4 @@
-# Product Launch
+# Essies Product Launch
 Problem Statement:
 
 Essies Ltd is launching a new product and in the initial stage they 
