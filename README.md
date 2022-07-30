@@ -26,6 +26,7 @@ Low.
 Flag in the report
 
 • Essies Dashboard needs to highlight the following:-
+
        o Units Sold by Category
        o Total Unit sold
        o Retail Unit Sold
